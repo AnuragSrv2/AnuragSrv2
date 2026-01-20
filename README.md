@@ -85,9 +85,7 @@ console.log(me.info());
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
 | **Zerodha Clone** | A full-featured trading platform clone built using the MERN stack with live charts (Chart.js). | React, Node.js, Express, MongoDB, Chart.js | [🌐](https://zerodha-frontend-h69v.vercel.app) |
-| **VibeCall** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐](https://vibecallfrontend2.onrender.com/) |
-| **Fake Review Detection ML Model** | Machine learning model to detect fake product reviews using NLP techniques. | Python, SVM , Pandas, Flask | [GitHub](https://github.com/Abhishek-chicku/ML-Model-Fake-Review-Detection) |
-
+| **VibeCall** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐](https://vibecallfrontend2.onrender.com/) 
 
 </div>
 
@@ -95,11 +93,11 @@ console.log(me.info());
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="display: flex; flex-direction: column; gap: 30px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-chicku&theme=dark&hide_border=false&layout=compact" style="height: 200px;" />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek-chicku&theme=dark&hide_border=false" style="height: 200px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSrv2&theme=dark&hide_border=false&layout=compact" style="height: 200px;" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=AnuragSrv2&theme=dark&hide_border=false" style="height: 200px;" />
     </div>
     <div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-chicku&theme=github_dark" style="height: 420px;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragSrv2&theme=github_dark" style="height: 420px;" />
     </div>
   </div>
 </div>
