@@ -10,7 +10,7 @@
 
 </p>
 
-[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:anuragkrsrivastava2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anuragkrsrivastava2001@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:anuragkrsrivastava2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https:www.linkedin.com/in/anurag-kumar-srivastava-80a49628a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)]
 </div>
