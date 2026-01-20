@@ -10,9 +10,9 @@
 
 </p>
 
-[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:as340490@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-907710319/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)](https://my-portfolio-pfym.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:anuragkrsrivastava2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https:www.linkedin.com/in/anurag-kumar-srivastava-80a49628a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)]
 </div>
 
 ## 🧩 Pieces of My Dev Puzzle
@@ -20,7 +20,7 @@
 ```javascript
 class Developer {
   constructor() {
-    this.name = "Abhishek Kumar";
+    this.name = "Anurag Kumar";
     this.role = "Aspiring Full-Stack Developer";
     this.education = "Final Year BCA Student";
     this.interests = ["Full-Stack Development", "AI/ML", "DSA"];
